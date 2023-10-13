@@ -8,3 +8,4 @@ This is a basic banking system project for a web development course.
 - `/database`: Contains database-related files.
 - `/templates`: Contains HTML templates for different pages.
 - `index.php`: The main entry point for the website.
+# Basic Banking System Website
